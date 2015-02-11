@@ -11,12 +11,12 @@ If you [use vim +
 pathogen](http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/)
 
     cd ~/.vim
-    git submodule add git@github.com:tobiasschmid/charcoal-black-vim.git bundle/charcoal-black-vim
+    git submodule add git@github.com:toashd/charcoal-black-vim.git bundle/charcoal-black-vim
 
 if you [use vim + vundle](https://github.com/gmarik/vundle)
 
     " add to .vimrc
-    Plugin 'tobiasschmid/charcoal-black-vim'
+    Plugin 'toashd/charcoal-black-vim'
     :PluginInstall
 
 or just copy all the files in `colors/*.vim` to
