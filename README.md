@@ -25,8 +25,6 @@ or just copy all the files in `colors/*.vim` to
     # after downloading; unpacking; cd'ing
     cp colors/* ~/.vim/colors
 
-Something missing? Fork and Fix!
+License
 ------------------------
-
-Fork, send a pull request and I'll take it!
-
+MIT
