@@ -4,6 +4,8 @@ Charcoal Black for Vim
 A lightweight black theme for Vim inspired by the prominent [Charcoal Black](http://gnuemacscolorthemetest.googlecode.com/svn/html/charcoal-black-c.html) Emacs
 theme.
 
+![alt screenshot](https://cloud.githubusercontent.com/assets/1436166/10335638/7f6ec6dc-6cf2-11e5-9229-631646de21c8.png)
+
 Installation
 ------------
 
